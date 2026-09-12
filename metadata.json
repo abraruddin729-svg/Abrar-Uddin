@@ -1,0 +1,7 @@
+{
+  "name": "HomeCare Pro",
+  "description": "Professional home service booking platform with AI-powered voice diagnostics, verified contractor matching, and transparent pricing.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
